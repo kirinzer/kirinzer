@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HaitaoLiu</h1>
 <h3 align="center">An audio visual engineer</h3>
 
-- 🌱 I’m currently learning **Metal and English**
+- 🌱 I’m currently learning **C++**
 
 - 📝 I regularly write articles on [juejin](https://juejin.cn/user/1327865775522152)
 
