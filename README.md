@@ -8,8 +8,8 @@ I develop high-density decision systems and audit protocols to preserve cognitiv
 ---
 
 ### 🛡️ Technical Lineage & Strategic Context
-* **Founder & CEO @ [Zerora Labs](https://kirinzer.com)**: Orchestrating AI personality deconstruction and physiological efficacy systems (Reborn / Lyker).
-* **Ex-Senior A/V Engineer @ ByteDance**: Specialized in Engine Development and SDK Architecture. 
+* **Founder & CEO @ [Zerora Labs](https://zerora.cn)**: Orchestrating AI personality deconstruction and physiological efficacy systems (Reborn / Lyker).
+* **Ex-Senior A/V Engineer @ [ByteDance](https://www.bytedance.com/)**: Specialized in Engine Development and SDK Architecture. 
 * **Logic Sovereignty**: Dedicated to stripping away emotional filler to reach objective, high-entropy truths.
 
 ### 🛠️ Technical Competencies
@@ -27,10 +27,11 @@ I develop high-density decision systems and audit protocols to preserve cognitiv
 ### 🌐 Presence & Discourse
 
 * **Log & Archive**: [kirinzer.com](https://kirinzer.com) (Digital shelter & logic isolation chamber)
-* **Technical Discourse**: [Juejin](https://juejin.im/user/58bf69c18ac247006359e082) / [GitHub](https://github.com/kirinzer)
+* **Technical Discourse**: [Juejin](https://juejin.im/user/58bf69c18ac247006359e082)
 * **Direct Link**: kirinzer@outlook.com
 
 ---
 
 **Status:** Currently refining *CronusCycle* and auditing "high-position social noise reduction" samples. 
+
 **Note:** Not open for employment. Focus is strictly on sovereign logic development.
