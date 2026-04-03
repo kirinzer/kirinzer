@@ -1,29 +1,36 @@
-# kirinzer
-
+# Kirinzer
 **Architect of Sovereign Logic | Founder of Zerora Labs**
+
+> "Starry Heavens Above, Sovereign Logic Within."
 
 I develop high-density decision systems and audit protocols to preserve cognitive autonomy. My work focuses on the reduction of social noise and the engineering of robust logic middleware.
 
 ---
 
+### 🛡️ Technical Lineage & Strategic Context
+* **Founder & CEO @ [Zerora Labs](https://kirinzer.com)**: Orchestrating AI personality deconstruction and physiological efficacy systems (Reborn / Lyker).
+* **Ex-Senior A/V Engineer @ ByteDance**: Specialized in Engine Development and SDK Architecture. 
+* **Logic Sovereignty**: Dedicated to stripping away emotional filler to reach objective, high-entropy truths.
+
 ### 🛠️ Technical Competencies
 
-- **Logic & Systems Engineering**
-  - Exploring **Web3** protocols for decentralized logic transparency.
-  - High-performance logic optimization via **C++**.
-  - Behavioral audit algorithms and data modeling with **Python**.
+#### **Logic & Systems Engineering**
+* **Behavioral Auditing**: Developing algorithms for "Relationship Audit" and "Willpower Cornerstone" using **Python**.
+* **High-Performance Core**: Logic optimization and media processing via **C++** and **FFmpeg**.
+* **Middleware**: Building **CronusCycle** — A logic middleware for decision integrity and noise reduction.
 
-- **Cross-Platform Architecture**
-  - Building sovereign interfaces with **Vue3**.
-  - **Native Orchestration:** Utilizing **Capacitor** to bridge web-based logic with native mobile environments.
-  - Legacy infrastructure expertise in **iOS (Objective-C)** and **FFmpeg** media processing.
+#### **Cross-Platform Architecture**
+* **Sovereign Interfaces**: Crafting high-performance UIs with **Vue3**, **TailwindCSS**, and **Ionic**.
+* **Native Orchestration**: Utilizing **Capacitor** to bridge web-based logic with native mobile environments.
+* **Legacy Infrastructure**: Deep expertise in **iOS (Swift/Objective-C)** and cross-platform SDK design.
+
+### 🌐 Presence & Discourse
+
+* **Log & Archive**: [kirinzer.com](https://kirinzer.com) (Digital shelter & logic isolation chamber)
+* **Technical Discourse**: [Juejin](https://juejin.im/user/58bf69c18ac247006359e082) / [GitHub](https://github.com/kirinzer)
+* **Direct Link**: kirinzer@outlook.com
 
 ---
 
-### 🌐 Presence
-- **Personal Log:** [kirinzer.com](https://www.kirinzer.com)
-- **Technical Discourse:** [Juejin](https://juejin.cn/user/1327865775522152)
-- **Direct Link:** [kirinzer@outlook.com](mailto:kirinzer@outlook.com) | [Twitter](https://twitter.com/kirinzer)
-
----
-*Status: Developing CronusCycle - A logic middleware for decision integrity.*
+**Status:** Currently refining *CronusCycle* and auditing "high-position social noise reduction" samples. 
+**Note:** Not open for employment. Focus is strictly on sovereign logic development.
