@@ -1,37 +1,26 @@
 # Kirinzer
-**Architect of Sovereign Logic | Founder of Zerora Labs**
+**Founder of Zerora Labs | Ex-ByteDance Senior Engineer**
 
-> "Starry Heavens Above, Sovereign Logic Within."
-
-I develop high-density decision systems and audit protocols to preserve cognitive autonomy. My work focuses on the reduction of social noise and the engineering of robust logic middleware.
+A software engineer and tech founder focused on high-performance cross-platform architecture, AI decision modeling, and media processing.
 
 ---
 
-### 🛡️ Technical Lineage & Strategic Context
-* **Founder & CEO @ [Zerora Labs](https://zerora.cn)**: Orchestrating AI personality deconstruction and physiological efficacy systems (Reborn / Lyker).
-* **Ex-Senior A/V Engineer @ [ByteDance](https://www.bytedance.com/)**: Specialized in Engine Development and SDK Architecture. 
-* **Logic Sovereignty**: Dedicated to stripping away emotional filler to reach objective, high-entropy truths.
+### 🛡️ Strategic Context
+* **Founder & CEO @ [Zerora Labs](https://zerora.cn)**: Developing AI-driven multi-dimensional personality analysis and physiological efficacy systems (Reborn / Lyker).
+* **Ex-Senior A/V Engineer @ [ByteDance](https://www.bytedance.com/)**: Specialized in infrastructure engine development and cross-platform SDK architecture.
 
 ### 🛠️ Technical Competencies
 
-#### **Logic & Systems Engineering**
-* **Behavioral Auditing**: Developing algorithms for "Relationship Audit" and "Willpower Cornerstone" using **Python**.
-* **High-Performance Core**: Logic optimization and media processing via **C++** and **FFmpeg**.
-* **Middleware**: Building **CronusCycle** — A logic middleware for decision integrity and noise reduction.
+#### **Systems Engineering & AI**
+* **AI & Optimization**: Multi-dimensional behavioral quantization, agent-based decision modeling via **Python**.
+* **High-Performance Core**: Media processing and logic optimization via **C++** and **FFmpeg**.
+* **Middleware**: Building **CronusCycle** — A robust logic middleware framework.
 
 #### **Cross-Platform Architecture**
-* **Sovereign Interfaces**: Crafting high-performance UIs with **Vue3**, **TailwindCSS**, and **Ionic**.
-* **Native Orchestration**: Utilizing **Capacitor** to bridge web-based logic with native mobile environments.
-* **Legacy Infrastructure**: Deep expertise in **iOS (Swift/Objective-C)** and cross-platform SDK design.
-
-### 🌐 Presence & Discourse
-
-* **Log & Archive**: [kirinzer.com](https://kirinzer.com) (Digital shelter & logic isolation chamber)
-* **Technical Discourse**: [Juejin](https://juejin.im/user/58bf69c18ac247006359e082)
-* **Direct Link**: kirinzer@outlook.com
+* **Frontend/UI**: High-performance interfaces using **Vue3**, **TailwindCSS**, and **Ionic**.
+* **Native Integration**: Bridging web-based core with native mobile environments via **Capacitor**.
+* **Mobile Infrastructure**: Extensive experience in **iOS (Swift / Objective-C)** and cross-platform SDK design.
 
 ---
 
-**Status:** Currently refining *CronusCycle* and auditing "high-position social noise reduction" samples. 
-
-**Note:** Not open for employment. Focus is strictly on sovereign logic development.
+**Status:** Engineering "Lyker" — An AI decision infrastructure transforming physiological data into adaptive nutritional blueprints.
